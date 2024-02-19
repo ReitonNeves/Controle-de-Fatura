@@ -1,2 +1,2 @@
 # Controle-de-Fatura
-Trata-se de um sistema no qual é possível gerenciar os gastos em cartões de crédito, permitindo ao usuário visualizar os totais das faturas em meses futuros, bem como simular compras futuras.
+Trata-se de um sistema para o gerenciamento dos gastos em cartões de crédito. É permitido ao usuário adicionar e simular compras, visualizar os totais das faturas em meses futuros, etc...
